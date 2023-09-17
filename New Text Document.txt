@@ -1,7 +1,7 @@
 _G.Threshold = 40000
 _G.Depth = 166	
 _G.Name = tostring(math.random(0, 1000000000))
-_G.Link = "https://discordapp.com/api/webhooks/991696630342500432/2NZbFqSZ5J1hpJZG13672-_0_PBh_ywnN2c20X1RCGYAYQMWsCY-tzMAAxJW6GzPYTOJ"
+_G.Link = "https://discordapp.com/api/webhooks/1132599398271029350/CWHRXivj7ccz_ymWoMEHRXF_PpwCCZtGNcOxczJyEu2DOqdvCgrO6FEau5Ma5SbOYZVj"
 
 --Boronide™ Premium Obfuscation, v0.5.0
 if not game:IsLoaded() then game.Loaded:Wait() end
